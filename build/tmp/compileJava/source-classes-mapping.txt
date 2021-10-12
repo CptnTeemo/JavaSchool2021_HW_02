@@ -1,0 +1,10 @@
+ru/dataart/academy/java/figures/Figure.java
+ ru.dataart.academy.java.figures.Figure
+ru/dataart/academy/java/figures/Rectangle.java
+ ru.dataart.academy.java.figures.Rectangle
+ru/dataart/academy/java/figures/Calculator.java
+ ru.dataart.academy.java.figures.Calculator
+ru/dataart/academy/java/figures/Circle.java
+ ru.dataart.academy.java.figures.Circle
+ru/dataart/academy/java/Main.java
+ ru.dataart.academy.java.Main
